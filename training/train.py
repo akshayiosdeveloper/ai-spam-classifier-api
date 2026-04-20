@@ -10,7 +10,6 @@ def encode_labels(df):
     df['label'] = df['label'].map({'ham': 0, 'spam': 1})
     return df
 
-
 def main():
     df = load_data("../data/processed/spam.csv")
     

@@ -148,26 +148,10 @@ Chat UI Response
 
 <p align="center">
   <img src="assets/blank.png" width="260" height="540"/>
+   <img src="assets/home.png" width="260" height="540"/>
+    <img src="assets/spam.png" width="260" height="540"/>
+    <img src="assets/ham.png" width="260" height="540"/>
 </p>
-
-### 💬 Chat UI
-
-<p align="center">
-  <img src="assets/home.png" width="260" height="540"/>
-</p>
-
-### 🔴 Spam Detection Result
-
-<p align="center">
-  <img src="assets/spam.png" width="260" height="540"/>
-</p>
-
-### 🟢 Ham Detection Result
-
-<p align="center">
-  <img src="assets/ham.png" width="260" height="540"/>
-</p>
-
 ---
 
 ## ⚙️ Setup Instructions

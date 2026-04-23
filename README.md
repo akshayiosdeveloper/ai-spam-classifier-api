@@ -1,6 +1,7 @@
 # 📱 SpamGuard AI
 
 **End-to-End Spam Detection System (PyTorch + FastAPI + SwiftUI)**
+
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)

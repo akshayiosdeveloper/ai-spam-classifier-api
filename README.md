@@ -134,11 +134,7 @@ Chat UI Response
 
 ## 🎥 Demo Video
 
-> 📌 Add your demo video here (recommended)
-
-```
-[Paste YouTube / Loom link here]
-```
+👉 [Watch Demo Video](https://youtu.be/QxDJbncWMRE)
 
 ---
 
@@ -147,7 +143,6 @@ Chat UI Response
 ### 🏠 Home Screen
 
 <p align="center">
-  <img src="assets/blank.png" width="260" height="540"/>
    <img src="assets/home.png" width="260" height="540"/>
     <img src="assets/spam.png" width="260" height="540"/>
     <img src="assets/ham.png" width="260" height="540"/>
